@@ -40,7 +40,7 @@ define(function (require, exports, module) {
         snippets = require('snippet'),
         bsfuncHint = require('text!bs-func.txt'),
         enabled = false,
-        prefs = PreferencesManager.getExtensionPrefs('rch-bootstrap-4-snippets'),
+        prefs = PreferencesManager.getExtensionPrefs('bootstrap5-snippets'),
 
         COMMAND_NAME = 'Enable Bootstrap 5 Snippets',
         COMMAND_ID = 'bs5.toggleBootstrap5Snippets',
