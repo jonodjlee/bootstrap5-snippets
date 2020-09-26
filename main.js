@@ -43,7 +43,7 @@ define(function (require, exports, module) {
         prefs = PreferencesManager.getExtensionPrefs('rch-bootstrap-4-snippets'),
 
         COMMAND_NAME = 'Enable Bootstrap 5 Snippets',
-        COMMAND_ID = 'rchapbox.toggleBootstrap5Snippets',
+        COMMAND_ID = 'bs5.toggleBootstrap5Snippets',
         handleToggleSnippets = function () {
             enabled = !enabled;
             prefs.set('enabled', enabled);
