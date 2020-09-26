@@ -45,7 +45,7 @@ define(function (require, exports, module) {
 
     
     //---------------------------------------------------
-    // Bootstrap 4 - HTML5 Templates and Minimum Template
+    // Bootstrap 5 - HTML5 Templates and Minimum Template
     //---------------------------------------------------
     
     // Variables for CDNs
@@ -75,7 +75,7 @@ define(function (require, exports, module) {
         '\t<meta name="description" content="">\n' +
         '\t<meta name="author" content="">\n' +
         '\t<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">\n\n' +
-        '\t<title>Bootstrap 4 Minimal Template</title>\n\n' +
+        '\t<title>Bootstrap 5 Minimal Template</title>\n\n' +
         '\t<link rel="shortcut icon" href="" type="image/x-icon">\n' +
         '\t<link rel="apple-touch-icon" href="">\n\n' +
         csslocal +
@@ -96,7 +96,7 @@ define(function (require, exports, module) {
         '\t<meta name="description" content="">\n' +
         '\t<meta name="author" content="">\n' +
         '\t<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">\n\n' +
-        '\t<title>Bootstrap 4 Minimal Template</title>\n\n' +
+        '\t<title>Bootstrap 5 Minimal Template</title>\n\n' +
         '\t<link rel="shortcut icon" href="" type="image/x-icon">\n' +
         '\t<link rel="apple-touch-icon" href="">\n\n' +
         csscdn +
